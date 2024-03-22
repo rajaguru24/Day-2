@@ -1,0 +1,11 @@
+Difference between window object and document object
+
+Document object
+ The document object reprsents a web page that is loaded in the web page. 
+ By accessing the document object we can access the HTML page.
+ we can add dynamic content to our web page.
+ 
+ Window object
+  The window object is the topmost object of the DOM hierarchy.
+  It represents browser window or frame that displays the content of the webpage.
+  when a window appears on screen to display the contents of the document, the window object is created.
